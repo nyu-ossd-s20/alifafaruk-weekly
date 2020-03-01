@@ -23,6 +23,8 @@ Replace the first row with your own contribution.
 | Feb 28| https://en.wikipedia.org/wiki/Little_Women_(2019_film)| Wikipidea    | I added details about the movie the page describes |
 | Feb 29 | https://github.com/nyu-ossd-s20/evading1998-weekly/issues/3 | GitHub (evading-1989)    |  I opened an issue about wrong dates on his/her blog posts  |
 | Feb 29 | https://github.com/nyu-ossd-s20/carsendecker-weekly/issues/1 | GitHub (carsendecker-weekly)    |  I opened an issue for a broken link  |
+| Feb 29 | https://www.openstreetmap.org/edit#map=22/40.74880/-73.89241 | OpenStreetMap    |  Added a resturant near my parents house in Queens  |
+
 
 
 
