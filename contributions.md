@@ -25,8 +25,8 @@ Replace the first row with your own contribution.
 | Feb 29 | https://github.com/nyu-ossd-s20/carsendecker-weekly/issues/1 | GitHub (carsendecker-weekly)    |  I opened an issue for a broken link  |
 | Feb 29 | https://www.openstreetmap.org/edit#map=22/40.74880/-73.89241 | OpenStreetMap    |  Added a resturant near my parents house in Queens  |
 | March 15 | https://github.com/nyu-ossd-s20/MuyingLi-weekly/issues/2 | GitHub (MuyingLi)    | Opened an issue about a wrong link |
-
-
+| April 11  | https://www.openstreetmap.org/changeset/83413955#map=13/40.7353/-73.9471 | OpenStreetMap    | Added a resturant in my neighborhood in Queens|
+| April 11  | https://www.openstreetmap.org/changeset/83413955 | OpenStreetMap    | The NYU residence hall NYU Laffayette |
 
 
 
