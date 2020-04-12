@@ -27,6 +27,6 @@ Replace the first row with your own contribution.
 | March 15 | https://github.com/nyu-ossd-s20/MuyingLi-weekly/issues/2 | GitHub (MuyingLi)    | Opened an issue about a wrong link |
 | April 11  | https://www.openstreetmap.org/changeset/83413955#map=13/40.7353/-73.9471 | OpenStreetMap    | Added a resturant in my neighborhood in Queens|
 | April 11  | https://www.openstreetmap.org/changeset/83413955 | OpenStreetMap    | The NYU residence hall NYU Laffayette |
-
+| April 11  | https://github.com/nyu-ossd-s20/MuyingLi-weekly/pull/3 | Github- MuyingLi    | Created a pull request that fixes a broken link|
 
 
