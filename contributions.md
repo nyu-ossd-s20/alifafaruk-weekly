@@ -31,4 +31,4 @@ Replace the first row with your own contribution.
 | April 26  | https://en.wikipedia.org/wiki/Special:Contributions/Alifafaruk| Wikipedia    | Added a new show an actress now stars in|
 | May 10  |https://www.openstreetmap.org/changeset/84997152| OpenStreetMap    | Added a new resuturant in my neighborhood of Jackson Heigths|
 | May 10  | https://en.wikipedia.org/wiki/Special:Contributions/Alifafaruk| Wikipedia    | Added to the plot of the book Rosaura a las Diez (Rosaura at 10 o'clock)|
-
+| May 11 | https://en.wikipedia.org/wiki/Special:Contributions/Alifafaruk| Wikipedia    | Added plot details for the movie "After the Wedding"|
